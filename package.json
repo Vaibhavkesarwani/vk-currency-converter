@@ -1,0 +1,27 @@
+{
+  "name": "vk-currency-converter",
+  "version": "1.0.0",
+  "description": "Package for converting currencies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavkesarwani/vk-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhavkesarwani/vk-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Vaibhavkesarwani/vk-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
